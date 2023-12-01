@@ -4,4 +4,4 @@ Just a simple Java based Tool to Display Information about the applicaiton/serve
 
 Shout out to User TonyTipsy for the guidence. 
 
-(tested on Linux/Solaris)
+(tested on WAS 8.5 Linux/Solaris)
